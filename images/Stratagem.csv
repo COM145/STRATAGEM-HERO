@@ -1,0 +1,54 @@
+ResupplyIcon,Resupply,DOWN;DOWN;UP;RIGHT
+SOSicon,SOS Beacon,UP;DOWN;LEFT;UP
+Reinforceicon,Reinforce,UP;DOWN;RIGHT;LEFT;UP
+Hellbomb_Icon,Hellbomb,DOWN;UP;LEFT;DOWN;UP;RIGHT;DOWN;UP
+DeliverSSSDicon,SSSD Delivery,DOWN;DOWN;DOWN;UP;UP
+HD2_Eagle_Rearm_Icon,Eagle Rearm,UP;UP;LEFT;UP;RIGHT
+Seismic_probe_icon,Seismic Probe,UP;UP;LEFT;RIGHT;DOWN;DOWN
+AX-LAS-5icon,"Guard Dog" Rover,DOWN;UP;LEFT;UP;RIGHT;RIGHT
+AX-AR-23icon,"Guard Dog",DOWN;UP;LEFT;UP;RIGHT;DOWN
+LIFT-850icon,Jump Pack,DOWN;UP;UP;DOWN;UP
+B-1icon,Supply Pack,DOWN;LEFT;DOWN;UP;UP;DOWN
+SH-32icon,Shield Generator Pack,DOWN;UP;LEFT;RIGHT;LEFT;RIGHT
+SH-20icon,Ballistic Shield Backpack,DOWN;LEFT;UP;UP;RIGHT
+AC-8icon,Autocannon,DOWN;LEFT;DOWN;UP;UP;RIGHT
+EAT-17icon,Expendable Anti-tank,DOWN;DOWN;LEFT;UP;RIGHT
+FLAM-40icon,Flamethrower,DOWN;LEFT;UP;DOWN;UP
+LAS-98icon,Laser Cannon,DOWN;LEFT;DOWN;UP;LEFT
+M-105icon,Stalwart,DOWN;LEFT;DOWN;UP;UP;LEFT
+MG-43icon,Machine Gun,DOWN;LEFT;DOWN;UP;RIGHT
+ARC-3icon,Arc Thrower,DOWN;RIGHT;UP;LEFT;DOWN
+GL-21icon,Grenade Launcher,DOWN;LEFT;UP;LEFT;DOWN
+APW-1icon,Anti-Materiel Rifle,DOWN;LEFT;RIGHT;UP;DOWN
+RS-422icon,Railgun,DOWN;RIGHT;LEFT;DOWN;UP;LEFT;RIGHT
+GR-8icon,Recoilless Rifle,DOWN;LEFT;RIGHT;RIGHT;LEFT
+FAF-14icon,SPEAR Launcher,DOWN;DOWN;UP;DOWN;DOWN
+Teslaicon,Tesla Tower,DOWN;UP;RIGHT;UP;LEFT;RIGHT
+Mortarsentryicon,Mortar Sentry,DOWN;UP;RIGHT;RIGHT;DOWN
+EMSmortaricon,EMS Mortar Sentry,DOWN;DOWN;UP;UP;LEFT
+MGsentryicon,Machine Gun Sentry,DOWN;UP;RIGHT;RIGHT;UP
+Gatlingsentryicon,Gatling Sentry,DOWN;UP;RIGHT;LEFT
+Minefieldicon,Anti-Personnel Minefield,DOWN;LEFT;UP;RIGHT
+Fireminefieldicon,Incendiary Mines,DOWN;LEFT;LEFT;DOWN
+Shieldrelayicon,Shield Generator Relay,DOWN;UP;LEFT;DOWN;RIGHT;RIGHT
+HMGTurreticon,HMG Emplacement,DOWN;UP;LEFT;RIGHT;RIGHT;LEFT
+Autocannoasentryicon,Autocannon Sentry,DOWN;UP;RIGHT;UP;LEFT;UP
+Missilesentryicon,Rocket Sentry,DOWN;UP;RIGHT;RIGHT;LEFT
+OrbitalPrecisionicon,Orbital Precision Strike,RIGHT;RIGHT;UP
+OrbitalAirbursticon,Orbital Airbust Strike,RIGHT;RIGHT;RIGHT
+Orbital120icon,Orbital 120MM HE Barrage,RIGHT;DOWN;LEFT;RIGHT;DOWN
+Orbital380icon,Orbital 380MM HE Barrage,RIGHT;DOWN;UP;UP;LEFT;DOWN;DOWN
+OrbitalWalkingicon,Orbital Walking Barrage,RIGHT;RIGHT;DOWN;LEFT;RIGHT;DOWN
+OrbitalLasericon,Orbital Laser,RIGHT;DOWN;UP;RIGHT;DOWN
+OrbitalRailcannonicon,Orbital Railcannon Strike,RIGHT;UP;DOWN;DOWN;RIGHT
+OrbitalGatlingicon,Orbital Gatling Barrage,RIGHT;DOWN;LEFT;UP;UP
+OrbitalGasicon,Orbital Gas Strike,RIGHT;RIGHT;DOWN;RIGHT
+OrbitalEMSicon,Orbital EMS Strike,RIGHT;RIGHT;LEFT;DOWN
+OrbitalSmokeicon,Orbital Smoke Strike,RIGHT;RIGHT;DOWN;UP
+EagleStrafingicon,Eagle Strafing Run,UP;RIGHT;RIGHT
+EagleSmokeicon,Eagle Smoke Strike,UP;RIGHT;UP;DOWN
+EagleRocketpodicon,Eagle 110MM Rocket Pods,UP;RIGHT;UP;LEFT
+EagleNapalmicon,Eagle Napalm Strike,UP;RIGHT;DOWN;UP
+EagleClusterbombicon,Eagle Cluster Bomb,UP;RIGHT;DOWN;DOWN;RIGHT
+EagleAirstrikeicon,Eagle Airstrike,UP;RIGHT;DOWN;RIGHT
+Eagle500icon,Eagle 500kg Bomb,UP;RIGHT;DOWN;DOWN;DOWN
